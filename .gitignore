@@ -1,1 +1,9 @@
-/.git
+# /.git
+# *.log
+# *.xml
+/*
+!.gitigore
+!*.py
+!*.ipynb
+!*.md
+
